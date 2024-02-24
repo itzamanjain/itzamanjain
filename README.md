@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsjainaman" target="blank"><img src="https://img.shields.io/twitter/follow/itsjainaman?logo=twitter&style=for-the-badge" alt="itsjainaman" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.Js**
 
 - 💬 Ask me about **Web Development , MERN**
 
