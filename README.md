@@ -4,7 +4,7 @@ Full-Stack Engineer focused on building scalable products, developer tools, and 
 
 Currently working as a Founding Engineer at [Applyo](https://applyo.in?utm_source=chatgpt.com) where I build high-scale search systems, SEO architecture, onboarding flows, analytics systems, and tools used by thousands of students.
 
-Co-founder of [Spectrum UI](https://spectrumui.in?utm_source=chatgpt.com) — an open-source animated React component library with 250+ components and thousands of monthly developers.
+Co-founder of [Spectrum UI](https://spectrumhq.in?utm_source=chatgpt.com) — an open-source animated React component library with 250+ components and thousands of monthly developers.
 
 ---
 
